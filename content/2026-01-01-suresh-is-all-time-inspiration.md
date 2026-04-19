@@ -2,7 +2,7 @@ Title: Your Title Here
 Date: 2026-01-01
 Category: GenAI
 Tags: GenAI, LLM, tag1, tag2
-Slug: zzemplate
+Slug: suresh-is-all-time-inspiration
 Status: draft
 
 Write your intro paragraph here. Keep it short and punchy — set the stage for what follows.
